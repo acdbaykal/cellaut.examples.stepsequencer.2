@@ -65,7 +65,7 @@
 	
 	var row_count = 500;
 	var row_length = 30;
-	var rule_2 = (0, _cellaut.RuleMap)(94);
+	var rule_2 = (0, _cellaut.RuleMap)(2);
 	var arr = (0, _cellaut.CellAutArray)(rule_2, row_length);
 	arr.generate(row_count);
 	
