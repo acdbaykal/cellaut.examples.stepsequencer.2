@@ -1,0 +1,43 @@
+{
+  "name": "cellaut.examples.stepsequencer.2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test:all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdbaykal/cellaut.examples.stepsequencer.2.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.6",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-register": "^6.7.2",
+    "browser-sync": "^2.15.0",
+    "chai": "^3.5.0",
+    "del": "^2.2.2",
+    "eslint": "^2.4.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-print": "^2.0.1",
+    "gulp-spawn-mocha": "^2.2.2",
+    "gulp-util": "^3.0.7",
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "cellaut": "git+https://github.com/acdbaykal/cellaut.git",
+    "cellaut.stepsequencer": "git+https://github.com/acdbaykal/cellaut.stepsequencer.git",
+    "domready": "^1.0.8"
+  },
+  "keywords": [
+    "cellular",
+    "automata"
+  ],
+  "author": "ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acdbaykal/cellaut.examples.stepsequencer.2/issues"
+  },
+  "homepage": "https://github.com/acdbaykal/cellaut.examples.stepsequencer.2#readme"
+}
